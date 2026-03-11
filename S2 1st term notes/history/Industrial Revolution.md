@@ -1,0 +1,146 @@
+[[Renaissance]]
+[[Scientific revolution]]
+- **Technological advancement** from 18th to 19th centuries
+- Key stage of the rise of modern Europe
+Characteristics
+	- **==Mechanization==**: Invented and used many new machines
+	- **==Industrialization==**: Experienced rapid growth and replaced traditional agriculture
+	- **==Urbanization==**: People moved from countryside to industrial towns
+Causes
+	- **==Rise in population==**: Increase demand for goods, provided labour 
+	- ==**World trade**==: to meet global demand
+	- Accumulation of **==capital==**: Invested on new machines + technological innovations
+	- ==**Development of science**==: Applied technologies to improve industrial technologies
+Why start in Britain?
+	- Rich in **==natural resources==** (e.g. coal, iron)
+	- Had many **==overseas colonies==**
+	- ==**Enclosure movement**==: **Farmers** lost their land -> move to cities and **worked in factories**
+	- **Government** support
+		- ==**patent law**== to protect rights of inventors
+		- sponsored the ==**Royal Society**== to carry out **scientific experiments**
+Major developments
+- **==Textile industry==** was first
+- Invention of **==steam engine==** -> Spread to **heavy industries** (iron, steel making)
+- Made Britain **rich**
+- **Spread** to other European countries
+- **Textile industry**
+	- **Machine** was operated by workers in factories
+	- =='**domestic system**'== -> =='**factory system**'==
+	- Spread to other sectors
+- Sources of **energy**
+	- ==**Steam power**==
+		- Watt improved the steam engine
+	- ==**Coal gas**==
+		- powering machines, gas lighting and cooking
+	- ==**Electricity**==
+		- 1870s Edison invented light bulb and first electric power system
+	- **==Oil==**
+		- discovered in 19th century
+		- used to power machine
+		- Became the primary energy source
+- Other industries
+	- **Coal mining**
+		- Used **steam power** -> improved efficiency
+	- **Iron making**
+		- Before industrial revolution: Preferred **cast iron** bc cheap
+		- Reduced cost of **wrought iron** and **steel** -> common industrial materials
+-  Improvement in transportation
+	- Before: Poor roads, used ox-cars, horse carts and sailing ships
+	- Land transportation
+		- ==**Macadam road**==
+			- Better drainage
+			- Smooth surface
+		- 1883: First **==car==**
+		- Invented **==steam locomotives==** and build **==railways==** -> '**==Age of railways==**'
+		- Became two **major** means of land transport
+	- Sea transportation
+		- **==Canals==** were built
+		- Invented and improved ==**steamships**==
+		- Carry more further and faster
+- Communication
+	- Before: by post and takes a long time
+	- Invented **==telegraph==**, ==**Morse code**== and **telephone**
+	- Built ==**telephone networks**==
+- Medicine
+	- Hygiene bad in slums
+	- Started to study **social medicines**
+	- Vaccines against **==smallpox==**, **==cholera==** and **==rabies==** were invented
+	- Discovered ==**X-rays**== and **==radium==**: **==treat cancer==** and observe bodies
+	- Antiseptic surgery was used: prevent septicaemia by bacteria
+Impacts
+- Rise of ==**capitalism**==
+	- Capitalists owned **==means of production==** (machines, mines)
+	-  Put property into **==production==**
+	- Expanded through ==**factory system**== and ==**joint-stock companies**==
+	- -> modern capitalism (or industrial capitalism)
+	- Factory system
+		- built factories, installed **machines**
+		- Employed many **workers**
+		- -> factory system
+		- **==Division of labour==**
+			- Separated into **specialized** parts
+			- More skilful in preforming their job
+			- **Save time** and **improve quality of work**
+	- Joint-stock companies
+		- High cost -> joint-stock companies
+		- Issued **==Stocks==** and ==**Bonds**== to raise capital
+		- Profit was **distributed** according to investment
+	- Growth of industrial towns
+		- Farmers want to get **higher wages** -> move to **industrial towns**
+		- Large number of industrial town in Britain
+		- + Urbanization
+	- Rise of new social classes
+		- **==Capitalist class==**
+			- industrialists, businessmen, owners of factories and mines
+			- **Rich**
+			- Can influence government policies
+		- **==Middle class==**
+			- lawyers, doctors and engineers
+			- ==**Professional knowledge, expertise -> Wealth**==
+			- not as rich and influential
+		- **==Working class==**
+			- ==**Worked for capitalists**== and earned little
+			- Also called '**==Proletariat==**'
+	- **Labour problem**
+		- **Low income**: Woman and children had to work to earn extra
+		- **Long working hour**: 14-15 hour per day
+		- **Frequent accidents**: few factories or mines had safety measures
+		- Poor living conditions: 
+			- Workers lived in crowded **slums**
+			- Poor living + sanitary -> **diseases**
+	- Labour movements
+		- ==**Trade Union**==: improve **==conditions and wages==**
+		- British recognised the **legal status** (1824)
+		- Trade unions organised '==**Chartist Movement**==' to demand 
+			- shorter working hours and higher wages
+			- Right to **vote** for every man over 21
+			- Representative to take part in government
+		- Government passed **acts** to improve workers' conditions
+			- Disallow Children and woman to work
+			- Limit working hours
+		- But other country didn't improve until 20th century
+	- **==Socialism==**
+		- Origin
+			- thinkers criticized **ills** of capitalism
+				- Private ownership -> **few capitalists control means of production**
+				- ==**Exploit working class for profit**==
+			- **Means of production** should be **==owned publicly==**
+			- **==Wealth==** should be **==distributed evenly==**
+			- -> '**Socialism**'
+		- Development
+			- Representatives: British Owen's, French Saint-Simon's, 'utopian socialism', German Engels',       **Marx's** '**communism**'
+			- Socialism spread to many countries
+			- **Marxism** gained the greatest attention
+			- Communist theories and movements affected the world
+	- **==Expansion==** of world trade
+		- Western industrial powers **imported** large quantities of **raw materials** from different places
+		- Improvement of transportation -> rapid development of **international trade** and **technological exchange**
+	- Economic and **colonial expansion**
+		- Industrial revolution -> more **power**
+		- -> Acquire more **raw materials** and overseas markets
+		- Speed up **economic and colonial expansion** in Asia and Africa
+		- -> New **imperialism** (extending power through colonization)
+		- Set up many **colonies**
+		- International economic system developed
+		- Colonial **disputes and competition** -> **conflicts** among western powers
+		- -> ==**tense international situation**==

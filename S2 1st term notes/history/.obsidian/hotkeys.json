@@ -1,0 +1,13 @@
+{
+  "editor:open-search-replace": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "graph:open": [],
+  "workspace:undo-close-pane": []
+}
