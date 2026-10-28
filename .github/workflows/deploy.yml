@@ -24,6 +24,26 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
+      - name: Gather Markdown Files from All Directories
+        run: |
+          python -c "
+          import os
+          import shutil
+          from pathlib import Path
+
+          os.makedirs('docs', exist_ok=True)
+
+          # Find all .md files across the repo, excluding existing docs, site, or hidden folders
+          for path in Path('.').rglob('*.md'):
+              if 'docs' in path.parts or 'site' in path.parts or any(p.startswith('.') for p in path.parts):
+                  continue
+              
+              dest = Path('docs') / path
+              dest.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy(path, dest)
+              print(f'Copied: {path} -> {dest}')
+          "
+
       - name: Build Documentation
         run: |
           mkdocs build
