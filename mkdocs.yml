@@ -1,6 +1,5 @@
 site_name: Project Documentation
 site_description: Documentation generated from multiple directories.
-site_url: https://<your-github-username>.github.io/<repository-name>/
 
 theme:
   name: material
