@@ -1,0 +1,19 @@
+site_name: Project Documentation
+site_description: Documentation generated from multiple directories.
+site_url: https://<your-github-username>.github.io/<repository-name>/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - tables
