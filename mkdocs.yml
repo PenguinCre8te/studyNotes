@@ -3,13 +3,7 @@ site_description: Documentation generated from multiple directories.
 site_url: https://penguincre8te.github.io/studyNotes/
 
 theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
-    - search.highlight
+  name: readthedocs
 
 markdown_extensions:
   - admonition
