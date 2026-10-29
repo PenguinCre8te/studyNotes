@@ -12,7 +12,7 @@ COUNT: Count numbers **of numbers**
 
 COUNTA: Count numbers **of values**
 
-COUNTBLANK(range): Count blank cells **within range**
+COUNTBLANK(range): Count blank cells within range
 
 SUMIF(range, criteria, [sumRange])
 

@@ -18,13 +18,13 @@ Alliance system
 
 - **Triple Alliance** (Central powers)
 
-  - **Germany**, **Austria-Hungary**, **Italy** (1882)
+  - <mark>**Germany**, **Austria-Hungary**, **Italy**</mark> (1882)
 
   - To **isolate France**
 
 - **Triple Entente** (Allied powers)
 
-  - **France**, **Britain**, **Russia** (1907)
+  - <mark>**France**, **Britain**, **Russia**</mark> (1907)
 
 - -> Divided into **two rival camps**, Turn into large-scale wars with chain reaction of Allies' intervention
 
@@ -32,11 +32,11 @@ Scrambling for **colonies**
 
 - -> Conflicts
 
-- | Incident              | Power           | Description                                         |
-  | --------------------- | --------------- | --------------------------------------------------- |
-  | **Tunisian Incident** | France, Italy   | French occupied **Tunisia**, Italy protested        |
-  | **Fashoda Incident**  | Britain, France | In **Sudan**, divided their **sphere of influence** |
-  | Moroccan Crises       | ...             | ...                                                 |
+- | Incident              | Power               | Description                                         |
+  | --------------------- | ------------------- | --------------------------------------------------- |
+  | **Tunisian Incident** | **France, Italy**   | French occupied **Tunisia**, Italy protested        |
+  | **Fashoda Incident**  | **Britain, France** | In **Sudan**, divided their **sphere of influence** |
+  | Moroccan Crises       | ...                 | ...                                                 |
 
 Armaments racer
 
@@ -84,21 +84,21 @@ Two Balkan Wars
 
 - Ottoman Empire lost a large part of European territory
 
-- Austria-Hungary wanted to **stop Serbia from expanding** 
+- First Balkan War (1912)
 
-  - -> Supported Albania's independence
+  - **Balkan League** (<mark>**Serbia**, **Bulgaria**, **Montenegro**, **Greece**</mark>) VS Ottoman Empire
+
+  - Balkan states **seized the European territories of the Ottoman Empire**
+
+- Austria-Hungary **Supported Albania's independence**
+
+  - wanted to **stop Serbia from expanding** 
 
   - -> Prevented Serbia from gaining access to the sea
 
   - -> Straining relationship
 
-- First Balkan War
-
-  - **Balkan League** (**Serbia**, **Bulgaria**, **Montenegro**, **Greece**) VS Ottoman Empire
-
-  - Balkan states **seized the European territories of the Ottoman Empire**
-
-- Second Balkan War
+- Second Balkan War (1913)
 
   - Balkan League **except Bulgaria**, **Ottoman Empire**, **Romania** VS Bulgaria
 
