@@ -1,5 +1,6 @@
 site_name: Project Documentation
 site_description: Documentation generated from multiple directories.
+site_url: https://penguincre8te.github.io/studyNotes/
 
 theme:
   name: material
