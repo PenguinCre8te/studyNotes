@@ -45,30 +45,47 @@ jobs:
               print(f'Copied: {path} -> {dest}')
           "
 
-      - name: Auto-generate Index.md
+      - name: Auto-generate Nested Index.md
         run: |
           python -c "
           from pathlib import Path
 
           docs_dir = Path('docs')
-          md_files = sorted([p for p in docs_dir.rglob('*.md') if p.relative_to(docs_dir) != Path('index.md')])
+          files = [p for p in docs_dir.rglob('*.md') if p.relative_to(docs_dir) != Path('index.md')]
 
-          lines = ['# Documentation Index\n', 'Here is an automatically generated list of all documentation files:\n']
+          # Build a nested dictionary tree structure
+          tree = {}
+          for file_path in files:
+              parts = file_path.relative_to(docs_dir).parts
+              current = tree
+              for part in parts[:-1]:
+                  current = current.setdefault(part, {})
+              current[parts[-1]] = file_path
 
-          for file_path in md_files:
-              rel_path = file_path.relative_to(docs_dir)
-              # Skip if index.md somehow snuck in
-              if rel_path == Path('index.md'):
-                  continue
+          def build_markdown_tree(node, indent=0):
+              lines = []
+              dirs = sorted([k for k, v in node.items() if isinstance(v, dict)])
+              fls = sorted([k for k, v in node.items() if not isinstance(v, dict)])
               
-              # Create a readable title from filename/path
-              title = rel_path.stem.replace('_', ' ').title()
-              # Format as a markdown link
-              lines.append(f'- [{title}]({rel_path.as_posix()})')
+              prefix = '  ' * indent
+              for d in dirs:
+                  lines.append(f'{prefix}- **{d.replace(\"_\", \" \").title()}**')
+                  lines.extend(build_markdown_tree(node[d], indent + 1))
+                  
+              for f in fls:
+                  file_path = node[f]
+                  rel_path = file_path.relative_to(docs_dir)
+                  title = file_path.stem.replace('_', ' ').title()
+                  lines.append(f'{prefix}- [{title}]({rel_path.as_posix()})')
+                  
+              return lines
+
+          lines = ['# Documentation Index\n', 'Index of all study notes:\n']
+          lines.extend(build_markdown_tree(tree))
 
           index_path = docs_dir / 'index.md'
           index_path.write_text('\n'.join(lines), encoding='utf-8')
-          print('Generated docs/index.md successfully with links to all markdown files.')
+          print('Generated docs/index.md successfully with a nested directory structure.')
           "
 
       - name: Build Documentation
