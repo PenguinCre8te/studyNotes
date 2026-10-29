@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://penguincre8te.github.io/studyNotes/S3%201st%20term%20notes/CL/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Functions - Penguin's study notes</title>
+    <title>CL - Penguin's study notes</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Functions";
+        var mkdocs_page_name = "CL";
         var mkdocs_page_input_path = "S3 1st term notes/CL.md";
         var mkdocs_page_url = "/studyNotes/S3%201st%20term%20notes/CL/";
       </script>
@@ -89,7 +89,7 @@
               <ul class="current">
                   <li class="toctree-l1"><a class="reference internal" href="../BAFS/">BAFS</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Functions</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">CL</a>
     <ul class="current">
     </ul>
                   </li>
@@ -119,7 +119,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">S3 1st term notes</li>
-      <li class="breadcrumb-item active">Functions</li>
+      <li class="breadcrumb-item active">CL</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -128,7 +128,93 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="functions">Functions<a class="headerlink" href="#functions" title="Permanent link">&para;</a></h1>
+                <h3 id="functions">Functions<a class="headerlink" href="#functions" title="Permanent link">&para;</a></h3>
+<p>SUM</p>
+<p>MIN</p>
+<p>MAX</p>
+<p>AVERAGE</p>
+<p>COUNT: Count numbers <strong>of numbers</strong></p>
+<p>COUNTA: Count numbers <strong>of values</strong></p>
+<p>COUNTBLANK(range): Count blank cells <strong>within range</strong></p>
+<p>SUMIF(range, criteria, [sumRange])</p>
+<p>COUNTIF(range, criteria)</p>
+<p>IF(test, value if true, [value if false])</p>
+<p>AND(logical, logical, ...): TRUE if all TRUE</p>
+<p>OR(logical, logical, ...): TRUE if one TRUE</p>
+<p>NOT(logical)</p>
+<p>RANK(number, ref, order)</p>
+<ul>
+<li>
+<p>rank of number in ref</p>
+</li>
+<li>
+<p>order = 0 or none: Descending, normal rank</p>
+</li>
+<li>
+<p>order != 0: Ascending, reversed</p>
+</li>
+</ul>
+<p><strong>XLOOKUP(value, array, return, [if not found], [<span style="background-color:#b7eb8f">match mode</span>], [<span style="background-color:#ffe58f">search mode</span>])</strong></p>
+<ul>
+<li>
+<p><span style="background-color:#b7eb8f">Match mode</span></p>
+</li>
+<li>
+<p>0: Excat</p>
+</li>
+<li>
+<p>-1: Next smaller</p>
+</li>
+<li>
+<p>1: Next larger</p>
+</li>
+<li>
+<p>2: regex</p>
+</li>
+<li>
+<p><span style="background-color:#ffe58f">Search mode</span></p>
+</li>
+<li>
+<p>1: Start from first</p>
+</li>
+<li>
+<p>-1: Start from last</p>
+</li>
+<li>
+<p>2: Ascending binary search</p>
+</li>
+<li>
+<p>-2: Descending binary search</p>
+</li>
+</ul>
+<p>LEFT(text, [num])</p>
+<p>RIGHT(text, [num])</p>
+<p>MID(text, start_num, num_chars): 1 based indexing</p>
+<p>FIND(objective, text, [start num])</p>
+<p>CONCATENATE(text1, [text2], ...) or text1 &amp; text2 &amp; ...</p>
+<p>INT(num): round down</p>
+<p>ROUND(num, digi)</p>
+<p>SQRT(number)</p>
+<p>RAND(): random number between <strong>0-1</strong></p>
+<p>LEN(text)</p>
+<h3 id="pivot-tables">Pivot Tables<a class="headerlink" href="#pivot-tables" title="Permanent link">&para;</a></h3>
+<p>Filters: Narrow down dataset</p>
+<p>Rows: displayed as row headers on the left</p>
+<p>Columns: Categories, split values</p>
+<p>Values: shown as columns on top</p>
+<ul>
+<li>summarization: SUM, AVERAGE, COUNT/COUNTA, MIN/MAX, PRODUCT, %</li>
+</ul>
+<p>Calculated fields</p>
+<h3 id="pivot-charts">Pivot charts<a class="headerlink" href="#pivot-charts" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Graphical representation of pivot table</p>
+</li>
+<li>
+<p>Insert &gt; pivot chart</p>
+</li>
+</ul>
               
             </div>
           </div><footer>
