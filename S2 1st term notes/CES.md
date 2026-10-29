@@ -1,24 +1,24 @@
 ### Developing values and self management skill to reject and stay away from undesirable behaviours
 
-- Healthy lifestyle = adopting healthy habits
+- Healthy lifestyle = **adopting healthy habits**
 
-- Positive belief -> adjust our mindsets in difficult situations
+- Positive belief -> **adjust our mindsets in difficult situations**
 
 - Fulfilling life
   
-  - facing various difficulties and challenges in life with a positive attitude
+  - facing various difficulties and challenges in life **with a positive attitude**
   
-  - Seizing opportuninities
+  - **Seizing opportunities**
   
   - Can be achieved in different ways
 
 - Stay healthy to realise your aspiration
   
-  - exercise regularly
+  - **exercise regularly**
   
-  - maintain hygene 
+  - **maintain hygiene**
   
-  - refuse undesirable behaviours
+  - refuse **undesirable behaviours**
 
 - Live a pourposful life 
   
@@ -36,46 +36,46 @@
 
 - Undesirable behaviours
   
-  - Bullying
+  - **Bullying**
   
-  - Drug abuse
+  - **Drug abuse**
     
-    - taking non-therepeutic and mentally hazard drugs 
+    - taking **non-therepeutic** and **mentally hazard drugs**
     
     - e.g. cannabbis, ecstasy, cocaine, 'ice', narcotic analgestics
   
-  - Sexual harassment
+  - **Sexual harassment**
     
     - e.g. unnecessarily physical contact, sexual comments and jokes 
   
-  - Smoking
+  - **Smoking**
     
     - Smoking tobacco products
   
-  - Gambling
+  - **Gambling**
     
     - Betting sth by luck or techniques
     - from internet to mobile apps
   
-  - Naked chat
+  - **Naked chat**
     
-    - Exposing sb body during video chat / sending nude (nake) photo to others
+    - ****Exposing sb body during video chat / sending nude (nake) photo to others
     
     - at risk of suffering from blackmail + commit offences
   
-  - Compensated dating
+  - **Compensated dating**
     
     - Involving money transactions e.g. dating / having sex
   
-  - Internet addiction
+  - **Internet addiction**
     
     - Excessive use of the Internet that affects daily life
     
     - e.g. Online games / online shopping
   
-  - Pornography addiction
+  - **Pornography addiction**
     
-    - uncontrobally indulging in pornographic websites
+    - uncontrollably indulging in pornographic websites
     
     - Full of distorted sexual information
     
@@ -85,25 +85,25 @@
 
 - Characteristics
   
-  - Strong craving
+  - **Strong craving**
   
-  - Developing withdrawal symptoms: Stop -> :(
+  - **Developing withdrawal symptoms**
   
-  - Developing tolerance: More and more is needed to achieve the same level of sastisfaction
+  - **Developing tolerance**: More and more is needed to achieve the **same level of satisfaction**
 
 ### Causes of undesirable behaviour
 
-- Escaping from reality
+- **Escaping from reality**
   
   - Cannot overcome challenges -> **resort to** undesirable behaviours to escape from reality and vent stress
 
-- Satisfying kinds of desire
+- **Satisfying kinds of desire**
   
   - Curious of sex and new things, desire to be come adults, rebel against elder
   
-  - -> prone to undesirable behaviour to seek excitment and sastisfy desires 
+  - -> prone to undesirable behaviour to seek excitement and satisfy desires 
 
-- Disorted value
+- **Distorted value**
   
   - Have inappropriate value towards money, material or sex
   
@@ -113,7 +113,7 @@
   
   - -> develop undesirable behaviours
 
-- Distant family relationships
+- **Distant family relationships**
   
   - Lack the **CARE**, **ENCOURAGEMENT** and **RECOGNITION** (e.g. me) / grew up in a broken family
   
@@ -121,15 +121,15 @@
   
   - -> develop undesirable behaviours
 
-- Being affected by bad friends
+- **Being affected by bad friends**
   
   - be more likely to develop undesirable behaviours under peer pressure or influence
 
-- Undesirable behaviour promoted by the media
+- **Undesirable behaviour promoted by the media**
   
-  - Promote undesirable values (e.g. violence, pornography, sexual openess)
+  - Promote undesirable values (e.g. violence, pornography, sexual openness)
   
-  - Value and attitudes will be disorted
+  - Value and attitudes will be distorted
   
   - Develop undesirable behaviours
   
@@ -143,17 +143,17 @@
 
 - Impact future, harm family, friends and society
 
-- Phychological (emotional)
+- **Psychological** (emotional)
   
-  - Under great pressure bc debts, blackmailed ...
+  - **Under great pressure** because **debts**, **blackmailed** ...
   
-  - Emotion may flutuate easily due to addiction
+  - Emotion may **fluctuate easily** due to addiction
 
-- Physiological (body)
+- **Physiological** (body)
   
-  - exopsure to drugs, tobacco, computers -> damage to body organs + affect mental health and appetite
+  - exposure to drugs, tobacco, computers -> damage to body organs + affect mental health and appetite
 
-- Interpersonal 
+- **Interpersonal** 
   
   - Make family and friends feel disappointed and dissatisfied
   
@@ -161,17 +161,17 @@
   
   - Friendship based on money and sex can also hinder normal social development
 
-- Future prospects
+- **Future prospects**
   
-  - Commit a criminal offence -> criminal record -> improsonment 
+  - Commit a criminal offence -> criminal record -> imprisonment 
   
   - -> affect **future education and employment**
 
-- Family and friends
+- **Family and friends**
   
-  - If sb commit criminal offence, family and friends who dont report it will also be in breach of law
+  - If sb commit criminal offence, family and friends **who don't report** it will also be **in breach of law**
   
-  - Family and friends who cares with have negative emotions
+  - Family and friends who cares with have **negative emotions**
   
   - If sb is doxxed bc undesirable behaviour, family and friends will also be disturbed
 
@@ -197,11 +197,11 @@
 
 - Characteristics
   
-  - Repetition
+  - **Repetition**
   
-  - Bad intent
+  - **Bad intent**
   
-  - Imbalance of power
+  - **Imbalance of power**
 
 - Types
   
@@ -217,59 +217,59 @@
   
   - Individual
     
-    - Having being bullyed by others and developing a revenge mentality
+    - Having being **bullied by others** and developing a revenge mentality
     
-    - Lacking skills for managing negative emotions
+    - Lacking **skills for managing negative emotions**
     
-    - Not good at communicating / getting along with others
+    - Not good at **communicating** / getting along **with others**
   
   - Family
     
-    - Parents dicipline them by insulting / scolding / negalect
+    - Parents discipline them by insulting / scolding / neglect
   
   - Social
     
-    - Making bad friends and being affected by peer pressure
+    - Making bad friends and being affected by **peer pressure**
   
   - Media
     
-    - Computer games advocate solving problem with violence
+    - Computer games advocate **solving problem with violence**
     
     - influence the values and attitudes when interacting with others
 
 - Consequences
   
-  - Bully
+  - on Bully
     
-    - Psycological
+    - psychological
       
       - Lose empathy
       
-      - Develop a violent, self-centered personality
+      - Develop a violent, self-centred personality
       
       - Have conflict with others
     
     - Behaviooural: Be convinced of commit an offence of inflicting bodily harm on another person
   
-  - Victim
+  - on Victim
     
-    - Phychological
+    - Psychological
       
-      - Feel scared
+      - **Feel scared**
       
-      - Have mental illness such as anxiety and depression
+      - Have **mental illness** such as anxiety and depression
     
     - Behavioural
       
-      - Avoid school
+      - **Avoid school**
       
-      - Refuse to trust others and develop relationship
+      - **Refuse to trust others** and develop relationship
     
-    - Physiological
+    - **Physiological**
       
-      - Suffer from physical injury
+      - **Suffer from physical injury**
 
-Sexual harassment
+**Sexual harassment**
 
 - Can be anyone
 
@@ -281,7 +281,7 @@ Sexual harassment
 
 - Behavioural
   
-  - Making unecessary physical contact
+  - Making unnecessary physical contact
   
   - Looking lustfully or whistling
   
@@ -299,7 +299,7 @@ Sexual harassment
 
 - Consequences
   
-  - Harasser: illegal
+  - Harasser: **illegal**
   
   - Victim
     
@@ -309,7 +309,7 @@ Sexual harassment
     
     - Has difficulty establishing trusting relationships with others
 
-Drug abuse
+**Drug abuse**
 
 - Characteristics
   
@@ -353,55 +353,55 @@ Drug abuse
 
 #### Ways to prevent
 
-- Say no
+- **Say no**
 
-- Keep distance
+- **Keep distance**
 
 Remedial strategies
 
-- Set goals
+- **Set goals**
 
-- Build positive beliefs
+- **Build positive beliefs**
 
 ### Hong Kong relation with Central Authorities
 
-- Central authorities have <mark>overall juridiction</mark> over the HKSAR (Hong Kong Special Administrative region)
+- Central authorities have <mark>overall jurisdiction</mark> over the HKSAR (Hong Kong Special Administrative region)
 
 Constitutional basis of HKSAR
 
-- Both HKSAR and Basic law are derived from the Constitution
+- Both HKSAR and Basic law are **derived from the Constitution**
 
-- The Constitution applies to HKSAR
+- The Constitution **applies to HKSAR**
 
 - The constitution is
   
-  - the fundemental system and task
+  - the **fundamental system and task**
   
-  - Other laws and system are specific implementation
+  - Other laws and system are **specific implementation**
   
-  - the parent law
+  - **the parent law**
   
-  - Other law are branch law formulated in accordance to the Constitution
+  - Other law are branch law formulated **in accordance to the Constitution**
   
-  - No law or regulation shall be in conflict in the Constitution
+  - **No law** or regulation shall be **in conflict in the Constitution**
   
   - One country, One constitution, One sovereignty
   
-  - Basic law is formulated in accordance and in compliance with the constitution
+  - **Basic law** is formulated **in accordance and in compliance with the constitution**
 
 Principle of 'One country, two systems'
 
-- -> Achieve peaceful reunification of the country
+- -> Achieve **peaceful reunification** of the countr
 
 - One country: People's republic of China
 
-- Two systems: under premise of one country, practise different system 
+- Two systems: under premise of one country, **practise different system**
 
-- One country is the prereqisite and foundation of the two systems
+- One country is the **prerequisite and foundation** of the two systems
 
-- When constitutional issues are involved, NPC (national people's congress) and NPCSC(standing commitee of NPC) have the power and responsibility to make desisions 
+- When constitutional issues are involved, **NPC** (**national people's congress**) and **NPCSC**(**standing commitee of NPC**) have the power and responsibility to **make desisions**
 
-Powers directly excercised by the Central Authorities
+Powers directly exercised by the Central Authorities
 
 - Establishment of the SAR
 
@@ -425,43 +425,39 @@ High degree of autonomy: Central authorities supervise and authorise HKSAR to ex
 
 - = Power to adminstrate / Formulate the **economy**, **culture**, **science**, **education**, **society**, **public order**, **land** and **resources**
 
-- Should conduct administrative affairs of the region
+- Should conduct **administrative affairs** of the region
 
 **Legislative power**
 
-- Enact laws on its own on civil, criminal, commercial and litigation matters
+- Enact laws on its own on **civil, criminal, commercial and litigation matters**
 
-- Through legislative process
+- Through **legislative process**
 
-- Has extensive legislative powers
+- Has **extensive legislative powers**
 
-- Legislature of HKSAR=The Legislative Council
+- Legislature of HKSAR=**The Legislative Council**
 
-- 
+**Judicial power** + **final adjudication**
 
-- 
+- **Not affected by mainland**
 
-Judicial power + final adjudication
-
-- Not affected by mainland
-
-- Established own Court of Final Appeal
+- Established own **Court of Final Appeal**
 
 Other power
 
-- Courts can intrepret laws within limits of the Region
-- But if basic law / about relation with the Central Authorities -> seek interpretation from NPCSC via Final Court of Appeal
+- Courts can **interpret laws** within limits of the Region
+- But if basic law / **about relation with the Central Authorities** -> **seek interpretation from NPCSC** via Final Court of Appeal
 - All courts should follow NPCSC interpretation
 
 External affairs
 
-- Handled by the Central People's congress
+- Handled by the **Central People's congress**
 
-- Allows to conduct relavent external affairs on its own
+- Allows to **conduct relavent external affairs on its own**
 
-- Use 'Hong Kong, China' participate in international activities or organisations not limited to states
+- Use '**Hong Kong, China**' participate in international activities or organisations not limited to states
 
-- May use regional flag and regional emblem
+- May use **regional flag** and **regional emblem**
 
 ### Political structure of HKSAR
 
@@ -471,19 +467,19 @@ Relation between Central and local authorities is authorising and being authoris
 
 - Local authorities have no sovereignty
 
-- Obtain power from authrisation of the Central authorities
+- Obtain power from authorisation of the Central authorities
 
 Exective-led system
 
-- Three powers are accountable to the Central People's Government via the Chief Exective
+- Three powers are accountable to the Central People's Government via the Chief executive
 
-- Dual head
+- **Dual head**, **Dual responsibility**
   
-  - Head of HKSAR: Accountable to Central People's Government
+  - **Head of HKSAR**: **Accountable to Central People's Government**
   
-  - Head of the HKSAR government: Accountable to HKSAR
+  - **Head of the HKSAR government**: **Accountable to HKSAR**
 
-- -> Dual accountability 
+- -> **Dual accountability**
 
 Power and functions
 
@@ -499,11 +495,11 @@ Power and functions
 
 Exective authorities
 
-- the HKSAR Goverment is the exective authorities of the HKSAR
+- the HKSAR Goverment is the **executive authorities of the HKSAR**
 
-- 3 Secretaries of Departments (for Justice, Chief Secretary for Administration, Financial Secretary)
+- 3 Secretaries of Departments (for **Justice**, **Chief Secretary for Administration**, **Financial Secretary**)
   
-  - 15 Policy bureaux under those
+  - 15 **Policy bureaux** under those
 
 HKSAR power and functions
 
@@ -519,37 +515,37 @@ HKSAR power and functions
 
 the Legislative Council
 
-- is the legislature of HKSAR
+- is the **legislature of HKSAR**
 
-- Government accountance to it
+- **Government accountable** to it
   
-  - Implement laws passed by it
+  - **Implement laws passed by it**
   
-  - Present regular policy adresses it
+  - Present **regular policy address to it**
   
-  - Answer questions raised by its member
+  - Answer **questions raised by its member**
   
-  - Obtain approval for taxation and public expenditure
+  - Obtain **approval for taxation and public expenditure**
 
-- Coordinance with the Goverment
+- Coordinance with the government
   
   - Exec authorities draft and introduce bills, motions, and budgets -> legislative approves, regulatory document
-  - Exective council includes member of Legislative 
+  - Executive council includes member of Legislative 
   - Government officials attend legislative Council meetings to speak on behalf of the Government
 
-The judiciary
+**The judiciary**
 
-- Independent, free from interference
+- **Independent, free from interference**
 
-- Hears all prosecutions and disputs 
+- Hears all prosecutions and disputes 
 
-- Members are immunte from legal action
+- Members are **immunte from legal action**
 
 Structure
 
-- Court of final appeal (Highest, has the power of final adjudication)
+- **Court of final appeal** (Highest, has the power of final adjudication)
   
-  - Can interpret provisions of the Basic Law (except about relation with central authorities)
+  - Can **interpret provisions of the Basic Law** (except **about relation with central authorities**)
   
   - High Court, District Court, ...
 
@@ -557,65 +553,67 @@ Structure
 
 Improving the selection system
 
-- Implement the principle of 'patriots administrating Hong Kong'
+- Implement the principle of '**patriots administrating Hong Kong**'
   
   - patriots
     
-    - Respect the Chinese nation
+    - **Respect the Chinese nation**
     
-    - Do not impair Hong Kong's prosperity and stability
+    - **Do not impair Hong Kong's prosperity and stability**
     
-    - Support sovereignty of Hong Kong by the motherland
+    - Support **sovereignty of Hong Kong by the motherland**
   
   - What did they do
     
-    - the Legislative Council passed the Improving Electorial system Bill
+    - the Legislative Council passed the Improving electoral system Bill
     
-    - the NPC passed the desision on improving Hong Kong's Electorial system
+    - the NPC passed the decision on improving Hong Kong's electorial system
     
-    - Authorised its standing comittee to amend the Basic Law
+    - Authorised its **standing committee to amend the Basic Law**
 
-- Establishing the Election committee
+- Establishing the **Election committee**
   
-  - According to te Decision
+  - According to the Decision
   
-  - Responsible for electing the Chief Exective + Part of the Legislative Council
+  - Responsible for **electing the Chief Exective + Part of the Legislative Council**
   
-  - Nominating(提名) candidates for the Chief Exective + Legislative Council
+  - **Nominating**(提名) **candidates for the Chief Exective + Legislative Council**
   
-  - Is a wide range of Sector
+  - Is a **wide range of Sector**
 
 - Election
   
   - Conditions
     
-    - Must be nominated by >188 members, each sector >15
+    - Must be nominated by **>188 members, each sector >15**
     
-    - By secret ballot on one-person-one-vote, a simple majority of members (>750)
+    - By **secret ballot** on **one-person-one-vote**, a simple majority of members (>750)
   
-  - Central Government then appoint the Chief Exective
+  - **Central Government** then **appoint the Chief Exective**
   
-  - Central Authorities have final decision
+  - Central Authorities **have final decision**
 
 - Legislative Council election
   
   - Total: 90 seats
   
-  - 40 seats: Returned by the election Commitee
+  - 40 seats: Returned by the **Election Committee**
   
-  - 30 seats: Returned by functional constituencies
+  - 30 seats: Returned by **functional constituencies**
   
-  - 20 seats: Returned by geological constituencies through direct election
+  - 20 seats: Returned by **geological constituencies through direct election**
     
-    - 10 geological constituencies
+    - **10 geological constituencies**
     
-    - Each 2
+    - **Each 2**
     
-    - Electors may elect one
+    - **Electors may elect one**
+    
+    - East, West Kowloon
 
 - Candidate Eligibility
   
-  - Conformity with the National Security Law and Basic Law
+  - Conformity with the **National Security Law and Basic Law**
   
   - Candidate Eligibility Review Committee (CERC) is responsible
 
@@ -623,25 +621,25 @@ Improving the selection system
 
 Country (state)
 
-- known as a sovereign state
+- known as a **sovereign state**
 
 - A social group with common language, race, culture, religion, territory, regime(政權) or history
 
 - Four elements
   
-  - People
+  - **People**
   
-  - Territory
+  - **Territory**
   
-  - Governement
+  - **Governement**
   
-  - Sovereignty
+  - **Sovereignty**
 
 National security
 
 - Definition
   
-  - Everything is not faced by any danger internally or externally
+  - **Everything is not faced by any danger internally or externally**
   
   - Capability to maintain a security status
 
@@ -651,7 +649,7 @@ Responsibility to safeguard national security
 
 - By Central People's Government
   
-  - NPC made decision to improve legal system to safeguard national security
+  - NPC made decision to **improve legal system to safeguard national security**
   
   - the Decision -> Is the constitutional responsibility of the HKSAR to safeguard national security
 
@@ -663,9 +661,9 @@ Responsibility to safeguard national security
 
 Fields
 
-- Political security
+- **Political security**
 
-- Polar security
+- **Polar security**
 
 - Homeland security
 
@@ -677,9 +675,9 @@ Importance: National Security -> stable life, favorible to the development of th
 
 ### Importance of National Security Law
 
-- Social unrest = bad for many things
+- **Social unrest = bad for many things**
 
-- National Security Law = Fixes everything
+- **National Security Law = Fixes everything**
 
 Institutions set up
 
@@ -693,11 +691,11 @@ Institutions set up
 
 Offences under National Security Law
 
-- Secession (分離)
+- **Secession** (分離)
 
-- Subversion (顛覆)
+- **Subversion** (顛覆)
 
-- Terrorist activities
+- **Terrorist activities**
 
 - Collusion with a foreign country or with external elements to endanger national security
 

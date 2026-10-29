@@ -12,7 +12,7 @@
 
 - **<mark>Glowing</mark>** splint <mark>relights </mark>= Oxygen
   
-  **<mark>Hydrocarbonate indicator</mark>** indicates the amount of carbon dioxide
+  **<mark>Hydrogencarbonate indicator</mark>** indicates the amount of carbon dioxide
   
   | lower               | Atmospheric              | higher              |
   | ------------------- | ------------------------ | ------------------- |
@@ -42,7 +42,7 @@
 
 word equation: **<mark>Carbon dioxide + water -> Glucose + oxygen</mark>**
 
-                                                ↘ Starch (both *carbondydrates*)
+                                                ↘ Starch (both ***carbondydrates***)
 
 chemical equation: $6CO_2 + 6H_2O \xrightarrow{\text{light energy absorbed by chlorophyll}} C_6H_{12}O_6 (\rightarrow starch)+ 6O_2$
 

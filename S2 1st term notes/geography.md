@@ -8,11 +8,11 @@
 
 - 3% Freshwater
   
-  - 30% **Groundwater**
+     - 30% **Groundwater**
   
-  - 70% Glaciers and ice caps
+     - 70% Glaciers and ice caps
   
-  - 0.3% **surface water** (rivers and lakes)
+     - 0.3% **surface water** (rivers and lakes)
 
 #### 1.2 Where does it come from
 
@@ -30,9 +30,9 @@
 
 - Some countries face **unstable water supply**
   
-  - High rainfall -> enough
+     - High rainfall -> enough
   
-  - Lower rainfall -> **Water scarcity**
+     - Lower rainfall -> **Water scarcity**
 
 #### 1.4 Threads to global freshwater resources
 
@@ -46,25 +46,25 @@ Higher demand
 
 - **Population increase**
   
-  - -> higher demand for freshwater resources globally for domestic and economic activities
+     - -> higher demand for freshwater resources globally for domestic and economic activities
 
 - **Higher living standards**
   
-  - Water footprint = the level of development
+     - Water footprint = the level of development
   
-  - More money -> more **meat and diary products** -> more **water comsumption** -> larger water footprints
+     - More money -> more **meat and diary products** -> more **water comsumption** -> larger water footprints
 
 Decreasing supply
 
 - Water pollution
   
-  - Toxic or dirty substance e.g. industrial waste or sewage enters lakes, rivers and groundwater4
+     - Toxic or dirty substance e.g. industrial waste or sewage enters lakes, rivers and groundwater4
   
-  - -> **Cannot be used**
+     - -> **Cannot be used**
 
 - Climate change
   
-  - Some region recieve less precipitation -> lower freshwater supply
+     - Some region recieve less precipitation -> lower freshwater supply
 
 ### 2 How is it in China
 
@@ -72,21 +72,21 @@ Water problems in China
 
 - Water Scarcity
   
-  - China has a lot of freshwater But not much per capita
+     - China has a lot of freshwater But not much per capita
   
-  - -> water may not meet people's needs bc imbalance between water supply and demand
+     - -> water may not meet people's needs bc imbalance between water supply and demand
   
-  - Regional and sesonal differences
-    
-    - **North: less water**
-    
-    - **South: more water**
-    
-    - **Winter: less water**
+     - Regional and sesonal differences
+       
+          - **North: less water**
+       
+          - **South: more water**
+       
+          - **Winter: less water**
 
 - Flooding and drought
   
-  - Related to the **distribution** of precipitation
+     - Related to the **distribution** of precipitation
 
 Location of freshwater resources
 
@@ -100,11 +100,11 @@ Wet and Dry regions
 
 - 32% of land is **humid**
   
-  - Mainly found in the **southern** region
+     - Mainly found in the **southern** region
 
 - 53% of land is **Semi-arid or arid**
   
-  - Mainly found in the **nothern and north-western** regions
+     - Mainly found in the **nothern and north-western** regions
 
 - **South wet, North-western dry**
 
@@ -118,29 +118,29 @@ Factors of Percipitation
 
 - Summer
   
-  - Land **absorb heat quickily** -> air becomes **hot and rise** -> **air pressure low **
+     - Land **absorb heat quickily** -> air becomes **hot and rise** -> **air pressure low **
   
-  - Water **absorb heat slower** than land -> air **cooler and sink** -> **air pressure higher**
+     - Water **absorb heat slower** than land -> air **cooler and sink** -> **air pressure higher**
   
-  - Air moves from **high-pressure area to low pressure-area**
+     - Air moves from **high-pressure area to low pressure-area**
   
-  - -> blow from sea towards land (southern and eastern part of Asia)
+     - -> blow from sea towards land (southern and eastern part of Asia)
   
-  - Which are **onshore winds and summer monsoons**
+     - Which are **onshore winds and summer monsoons**
   
-  - carry much **<mark>moisture</mark>** -> wet summer
+     - carry much **<mark>moisture</mark>** -> wet summer
 
 - Winter
   
-  - Opposite: release heat faster for land / slower for sea
+     - Opposite: release heat faster for land / slower for sea
 
 - Distance from the sea
   
-  - Onshore wind carry **moisture**
+     - Onshore wind carry **moisture**
   
-  - Reach **inland areas** -> **moisture lost**
+     - Reach **inland areas** -> **moisture lost**
   
-  - Eastern coast recieve more **percipitation** than the inland regions
+     - Eastern coast recieve more **percipitation** than the inland regions
 
 Relation of percipitation to freshwater resources and water problems
 
@@ -150,11 +150,11 @@ Relation of percipitation to freshwater resources and water problems
 
 - Distribution is highly uneven
   
-  - Wet season: higher volume of river flow
+     - Wet season: higher volume of river flow
   
-  - More water in wet season(summer)
+     - More water in wet season(summer)
   
-  - water scarcity is more **severe in winter**
+     - water scarcity is more **severe in winter**
 
 - Dry season longer then normal -> **drought**
 
@@ -168,37 +168,37 @@ Relation of percipitation to freshwater resources and water problems
 
 - Increase in population
   
-  - Continuous **population growth** -> **larger demand** for water
+     - Continuous **population growth** -> **larger demand** for water
 
 - Economic development
   
-  - Since open policy
+     - Since open policy
   
-  - rapid economic growth
+     - rapid economic growth
   
-  - Economic activities **demand for huge amount of water** (e.g. manufacturing, agricultural activities)
+     - Economic activities **demand for huge amount of water** (e.g. manufacturing, agricultural activities)
   
-  - Water is also use **ineffectively**
-    
-    - Only 1/3 of irrigation water is used effectively
-    
-    - freshwater resource used to produce one unit of product is way more then more developed countries
+     - Water is also use **ineffectively**
+       
+          - Only 1/3 of irrigation water is used effectively
+       
+          - freshwater resource used to produce one unit of product is way more then more developed countries
 
 - Rise in living standards
   
-  - Rapid economic development -> income increase -> living standard improve
+     - Rapid economic development -> income increase -> living standard improve
   
-  - Demand for more food and consumer goods
+     - Demand for more food and consumer goods
   
-  - -> more water is needed for different uses
+     - -> more water is needed for different uses
 
 - Low cost of water
   
-  - Cost of water is low
+     - Cost of water is low
   
-  - Not enough **economic incentive** for water users to **save water**
+     - Not enough **economic incentive** for water users to **save water**
   
-  - Many people are not aware of the importance of water conservation **-> waste water**
+     - Many people are not aware of the importance of water conservation **-> waste water**
 
 #### 3.2 Water supply decrease
 
@@ -228,15 +228,15 @@ Depletion of Groundwater
 
 - Nothern China
   
-  - freshwater resources are not enough to meet the demand for water
+     - freshwater resources are not enough to meet the demand for water
   
-  - People rely on groundwater
+     - People rely on groundwater
   
-  - natural groundwater recharge is small
+     - natural groundwater recharge is small
   
-  - **Overdrawing groundwater will reduce groundwater storage**
+     - **Overdrawing groundwater will reduce groundwater storage**
   
-  - -> further decrease freshwater supply
+     - -> further decrease freshwater supply
 
 - Avalibility is a security issue -> must have a secure water supply
 
@@ -256,9 +256,9 @@ On people
 
 - **Farming**
   
-  - **Lack of water** for irrigation / pastures
+     - **Lack of water** for irrigation / pastures
   
-  - -> Crop faliure, livestock die, farm production drops -> **food shortages**
+     - -> Crop faliure, livestock die, farm production drops -> **food shortages**
 
 - **Industry**: Lack of water for processing + cooling: **Industrial production** will decline
 
@@ -268,11 +268,11 @@ On people
 
 - **Daily domestic use**
   
-  - Not enough water to use
+     - Not enough water to use
   
-  - May need to carry out water rationing(restrict water supply)
+     - May need to carry out water rationing(restrict water supply)
   
-  - Will cause **inconvenience** and affect **people's health**
+     - Will cause **inconvenience** and affect **people's health**
 
 On environment
 
@@ -280,9 +280,9 @@ On environment
 
 - X vegatiation -> topsoil blown away -> **soil erosion **
   
-  - -> intensify **desertification** (makes land unproductive)
+     - -> intensify **desertification** (makes land unproductive)
   
-  - -> **Sandstorm** will be more common
+     - -> **Sandstorm** will be more common
 
 - plants and animals die -> **ecosystem** adversely affected
 
@@ -346,53 +346,53 @@ Increasing supply
 
 - Building **dams and resivoris**
   
-  - Wet season: reservoirs behind the dams can store rainwater and river water
+     - Wet season: reservoirs behind the dams can store rainwater and river water
   
-  - Dry season: Water released to provide a reliable and adequate source of freshwater use
+     - Dry season: Water released to provide a reliable and adequate source of freshwater use
 
 - **Controlling water pollution**
   
-  - **Clean up** polluted water and lakes: Pass laws and provide money
+     - **Clean up** polluted water and lakes: Pass laws and provide money
   
-  - **Treat sewage** before discharge: Improve sewage management + build new sewage treatment works
+     - **Treat sewage** before discharge: Improve sewage management + build new sewage treatment works
   
-  - **Reduce discharge**
-    
-    - Close polluting factories
-    
-    - Educate the public
-    
-    - Raise water charges
-    
-    - Control use of chemicals
-    
-    - reuse wastewater
-    
-    - purify sewage to recycled water
+     - **Reduce discharge**
+       
+          - Close polluting factories
+       
+          - Educate the public
+       
+          - Raise water charges
+       
+          - Control use of chemicals
+       
+          - reuse wastewater
+       
+          - purify sewage to recycled water
   
-  - -> More water is drinkable in China
+     - -> More water is drinkable in China
 
 **Reducing demand**
 
 - **Save water on farms**
   
-  - Adopt **drip irrigation**
+     - Adopt **drip irrigation**
   
-  - Use **plastic films** to reduce evaporation of soil water
+     - Use **plastic films** to reduce evaporation of soil water
   
-  - Prevent water leakage
+     - Prevent water leakage
   
-  - Grow **drought-resistant crops** (peanuts, sweet potatos, millet, sorghum)
+     - Grow **drought-resistant crops** (peanuts, sweet potatos, millet, sorghum)
 
 - **Reducing** industrial and domestic **water useage**
   
-  - Adopt **water-saving technology** in industrial production
+     - Adopt **water-saving technology** in industrial production
   
-  - Pass law to **shut down factories** that don't comply with water-saving regulations
+     - Pass law to **shut down factories** that don't comply with water-saving regulations
   
-  - Educate people
+     - Educate people
   
-  - Increase water charges
+     - Increase water charges
 
 #### 5.2 Large scale water transfer project
 
@@ -400,19 +400,19 @@ Increasing supply
 
 - Advantages
   
-  - Provide reliable and clean water resources -> **support industrial development**
+     - Provide reliable and clean water resources -> **support industrial development**
   
-  - **Maintain** wetland + river **ecosystem**
+     - **Maintain** wetland + river **ecosystem**
 
 - Disadvantages
   
-  - People have to be **relocated**
+     - People have to be **relocated**
   
-  - Less water for **Hydroelectric power generation**
+     - Less water for **Hydroelectric power generation**
   
-  - Less water flowing downstream -> Natural habitat of **fish downstream is destroyed**
+     - Less water flowing downstream -> Natural habitat of **fish downstream is destroyed**
   
-  - **High construction cost** (260M RMB)
+     - **High construction cost** (260M RMB)
 
 ### 6 Problem of flooding
 
@@ -452,63 +452,63 @@ Increasing supply
 
 - Factors
   
-  - Amount of **river flow**
+     - Amount of **river flow**
   
-  - **Holding capacity** of river (shallow -> less capacity)
+     - **Holding capacity** of river (shallow -> less capacity)
 
 Physical factors
 
 - **Heavy rainfall and typhoons**
   
-  - Summer **monsoons** or **typhoons** bring heavy rain -> **+ river flow**
+     - Summer **monsoons** or **typhoons** bring heavy rain -> **+ river flow**
   
-  - Climate change -> **more extreme weather events** (typhoons, rainstorms)
+     - Climate change -> **more extreme weather events** (typhoons, rainstorms)
 
 - **Low relief + Silting**
   
-  - West: Highland
+     - West: Highland
   
-  - East: Coast
+     - East: Coast
   
-  - Rivers in the east flow on **gentle slopes**
+     - Rivers in the east flow on **gentle slopes**
   
-  - -> river flow **slows down**
+     - -> river flow **slows down**
   
-  - -> **silting** (sand and soil is deposited on the river bed)
+     - -> **silting** (sand and soil is deposited on the river bed)
   
-  - -> reduced holding capacity
+     - -> reduced holding capacity
 
 Human factors
 
 - **Deforestation**
   
-  - Cut tree -> **soil easily washed away** -> **silting** + **more overland flow**
+     - Cut tree -> **soil easily washed away** -> **silting** + **more overland flow**
 
 - **Farming practises**
   
-  - Overgrazing: Gaze a large amount of livestock
-    
-    - -> **grass** does not have time to **recover**
+     - Overgrazing: Gaze a large amount of livestock
+       
+          - -> **grass** does not have time to **recover**
   
-  - Over-cultivation: **Grow crops intensively on slopes**
-    
-    - -> Soil becomes poor
+     - Over-cultivation: **Grow crops intensively on slopes**
+       
+          - -> Soil becomes poor
   
-  - Cause **soil erosion** -> + **silting**
+     - Cause **soil erosion** -> + **silting**
 
 - **Reclaiming lakes** (pond)
   
-  - Lakes can **store water -> regulate flow**
+     - Lakes can **store water -> regulate flow**
   
-  - Reclaiming (for fish ponds, farming, settlement) -> **reduced size of lakes**
+     - Reclaiming (for fish ponds, farming, settlement) -> **reduced size of lakes**
 
 - **Urban development**
   
-  - Cover land with **concrete** -> rain cannot infiltrate -> **overland flow**
+     - Cover land with **concrete** -> rain cannot infiltrate -> **overland flow**
   
-  - **Sewer and drain** helps divert rainwater quickly 
+     - **Sewer and drain** helps divert rainwater quickly 
   
-  - -> Reach river in a shorter amount of time -> flooding
+     - -> Reach river in a shorter amount of time -> flooding
 
 ### 7 Ways for controlling flooding
 
@@ -518,43 +518,43 @@ Regulating river flow
 
 - Build **dams and reservoirs**
   
-  - -> hold and store excess river water -> **regulate river flow downstream**
+     - -> hold and store excess river water -> **regulate river flow downstream**
 
 - **Restoring storagae function of lakes**
   
-  - **Prohibit reclamation** of land
+     - **Prohibit reclamation** of land
   
-  - Gived up farmlands and fish ponds that is reclaimed
+     - Gived up farmlands and fish ponds that is reclaimed
 
 - **Afforestation**
   
-  - **Increase infiltration**
+     - **Increase infiltration**
   
-  - **Reduce overland flow** -> **less rapid water** into rivers
+     - **Reduce overland flow** -> **less rapid water** into rivers
 
 Increasing holding capacity
 
 - **Preventing silting**
   
-  - Reduce **soil eurosion**
+     - Reduce **soil eurosion**
   
-  - **Plant trees** + **control deforestation**
+     - **Plant trees** + **control deforestation**
   
-  - **Terracing**(**梯田**) -> prevent soil eurosion
+     - **Terracing**(**梯田**) -> prevent soil eurosion
   
-  - **Stopping grazing**
+     - **Stopping grazing**
 
 - Building **dykes**(**堤防**)
   
-  - **Raised height of river banks** -> prevent water from overflowing
+     - **Raised height of river banks** -> prevent water from overflowing
 
 - **Deepening and widening river channels**
   
-  - Allows a larger amount of water within the channels
+     - Allows a larger amount of water within the channels
 
 - **Dredging river channels**
   
-  - **Remove sediemnts** -> lower river bed
+     - **Remove sediemnts** -> lower river bed
 
 #### 7.2 Large-scale flood control project
 
@@ -584,42 +584,10 @@ Disavantages
 
 - Harm to environment
   
-  - **Sediments trapped** -> **Reduce soil fertility downstream**
+     - **Sediments trapped** -> **Reduce soil fertility downstream**
   
-  - **Fish cannot migrate** ->  decreased fish species -> **affects biodiversity**
+     - **Fish cannot migrate** ->  decreased fish species -> **affects biodiversity**
   
-  - **flooded natural habitat of land based wildlife**
+     - **flooded natural habitat of land based wildlife**
 
-## Map reading
-
-- Relief = shape of land, height+steepness
-
-Ways of showing
-
-- Colouring
-
-- Contouring
-  
-  - on **Countour map**
-  
-  - in **Countour lines**
-  
-  - -> **Height** and **Shape** of the land + **steepness** of slopes
-
-- By conventional signs
-  
-  - trigonometric stations
-  
-  - spot heights
-  
-  - Marks the height at a certain place
-
-Figuring height of place
-
-- Know the Vertical Interval: Difference in value between two adjacent countour lines
-
-- On countour line: Same value as countour line
-
-- Between countour lines: Guess
-
-- Above all countour lines: $\text{last countour line} + \frac {\text{Vertical Interval}}{2}$
+## 
