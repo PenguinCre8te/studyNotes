@@ -45,6 +45,32 @@ jobs:
               print(f'Copied: {path} -> {dest}')
           "
 
+      - name: Auto-generate Index.md
+        run: |
+          python -c "
+          from pathlib import Path
+
+          docs_dir = Path('docs')
+          md_files = sorted([p for p in docs_dir.rglob('*.md') if p.relative_to(docs_dir) != Path('index.md')])
+
+          lines = ['# Documentation Index\n', 'Here is an automatically generated list of all documentation files:\n']
+
+          for file_path in md_files:
+              rel_path = file_path.relative_to(docs_dir)
+              # Skip if index.md somehow snuck in
+              if rel_path == Path('index.md'):
+                  continue
+              
+              # Create a readable title from filename/path
+              title = rel_path.stem.replace('_', ' ').title()
+              # Format as a markdown link
+              lines.append(f'- [{title}]({rel_path.as_posix()})')
+
+          index_path = docs_dir / 'index.md'
+          index_path.write_text('\n'.join(lines), encoding='utf-8')
+          print('Generated docs/index.md successfully with links to all markdown files.')
+          "
+
       - name: Build Documentation
         run: |
           mkdocs build
