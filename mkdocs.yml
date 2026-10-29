@@ -1,5 +1,5 @@
-site_name: Project Documentation
-site_description: Documentation generated from multiple directories.
+site_name: Penguin's study notes
+site_description: My study notes
 site_url: https://penguincre8te.github.io/studyNotes/
 
 theme:
