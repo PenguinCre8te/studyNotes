@@ -50,4 +50,34 @@
 
 2.1 Showing relief
 
-- 
+- Relief = shape of the land
+  - Height
+  - Steepness
+- Showing relief
+  - Colouring
+  - Contouring
+
+2.2 Cross section
+
+- Draw a line on contour map and plot the changes in height on a line graph
+- -> Cross section of land
+- Shows shape and height of land
+
+2.3 Describe steepness of slope
+
+- Contour lines
+  - Wide apart => Gentle slopes
+  - Close together => steep slopes
+- Slope gradient
+  - $$= \frac {\text {vertical distance}} {\text {horizontal distance}} = \frac 1 x = 1 \text{ in } x$$ 
+  - Larger => steeper
+
+2.4 Relief features found on contour maps
+
+- Steep slope
+
+- Gentle slope
+
+- Valley
+
+- Spur
