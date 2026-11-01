@@ -1,55 +1,61 @@
 Types of objects
 
-- Luminous
+- **Luminous**
 
-- Non-luminous (reflects light)
+- **Non-luminous** (**reflects** light)
 
 Light beam
 
-- In a ray diagram we use a line and a arrow to draw a light ray
+- In a ray diagram we use a **line and a arrow** to draw a **light ray**
 
-- Bundle of light = light beam
+- Bundle of light = **light beam**
 
-- Parallel
+- types
 
-- Convergent
+  - **Parallel**
 
-- Divergent
+  - **Convergent**
+
+  - **Divergent**
 
 Laws of reflection
 
-- Incident ray, reflected ray
+- **Incident ray**, **reflected ray**
 
-- Angle of incidence is equal to the angle of reflection (i.e. i=r)
+- **Angle of incidence** is equal to the **angle of reflection** (i.e. i=r)
 
 - Incident ray, reflected ray and **normal** (dotted) all lie on the same plane
 
 Properties of plane mirror images
 
-- Laterally inverted
+- **Laterally inverted**
 
-- Virtual
+- **Virtual**
 
-- Image distance = Object distance
+- **Image distance** = **Object distance**
 
-- Image has the same size as object
+- Image has the **same size** as object
 
 Ray tracing
 
-- Remember arrows
+1. Draw normal
+
+2. Find angles with normal
+
+3. Draw rays with arrows
 
 Multiple reflection
 
-- e.g. Periscope
+- e.g. **Periscope**
 
-Regular reflection vs Diffuse reflection
+**Regular reflection** vs **Diffuse reflection**
 
 Applications of Plane Mirror
 
-- Side-view mirror
+- **Side-view mirror**
 
-- Decoration
+- **Decoration**
 
-- Periscope
+- **Periscope**
 
-- Cat's eye: Installed on highway
+- **Cat's eye**: Installed on highway

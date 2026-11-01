@@ -8,7 +8,7 @@
 
 - **Natural hazards**
 
-  - Natural event that cause harm and loss to humans
+  - Natural events that cause harm and loss to humans
 
 - **Natural disasters**
 
@@ -108,7 +108,7 @@
 
 - Few natural lowland areas (**Yuen Long Plain** is the largest plain)
 
-- **Hilly** relief (most land >200m, **Tai Mo Shan 957m**)
+- **Hilly** relief (many land >200m, **Tai Mo Shan 957m**)
 
 - **Long and irregular coastline**, many **bays**
 
@@ -172,7 +172,7 @@ Natural Factors
 
 - **Large slope gradient**
 
-  - 60% has > $$20\degree$$ slope gradient
+  - 60% has > $$20\degree$$ slope angle
 
   - Larger slope gradient -> **Stronger the driving force** pulling slope material downhill
 
@@ -192,7 +192,7 @@ Human factors
 
   - Stricter laws and better slope management -> Safe
 
-- Poor maintenance of man-made slope
+- **Poor maintenance of man-made slope**
 
   - **Cracked slope surface** and **drainage channels** -> **More water** to **seep into soil**
 
