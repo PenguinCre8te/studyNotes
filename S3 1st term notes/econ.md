@@ -1,10 +1,10 @@
 What is Economics
 
-- Social science -> explain and predict human behaviour
+- **Social science** -> explain and predict human behaviour
 
 - Limited resources, unlimited wants
 
-Microeconomics
+**Microeconomics**
 
 - Individual economics units (e.g. people, market. firms)
 
@@ -74,4 +74,24 @@ Interest
 
 - In form of goods or money
 
-- Increase -> Current consumption decrease,
+- Increase -> Current consumption decrease, saving increase
+
+Free goods
+
+- Free
+
+- Sufficient to satisfy all human wants
+
+- People don't prefer more (prefer some)
+
+- Not produced by scarce goods (no alternative uses, no opportunity cost to produce)
+
+- e.g. Air
+
+Economic Goods
+
+- Insufficient to satisfy all human wants
+
+- Prefer more
+
+- Produced by scarce resources
