@@ -20,7 +20,7 @@ Fundementals of accounting
 
 Rules
 
-- Assets: Debit (left) increase
+- **Assets: Debit (left) increase**
 
 - Liabilities: Left decrease right increase
 

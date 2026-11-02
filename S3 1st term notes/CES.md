@@ -2,51 +2,51 @@
 
 Triangular theory of love
 
-- Liking = Intimacy (Psychological connection)
+- **Liking** = **<mark>Intimacy</mark>** (**Psychological connection**)
 
-- Empty love = Commitment (Determination to maintain relationship)
+- **Empty love** = **<mark>Commitment</mark>** (**Determination** to maintain relationship)
 
-- Infactuation = Passion (Physical attraction)
+- **Infactuation** = **<mark>Passion</mark>** (Physical **attraction**)
 
-- Romantic love = Intimacy + Passion
+- **Romantic love** = Intimacy + Passion
 
-- Companionate love = Intimacy + Commitment
+- **Companionate love** = Intimacy + Commitment
 
-- Fatuous love = Passion + Commitment
+- **Fatuous love** = Passion + Commitment
 
 Friendship vs Love
 
 - Same
 
-  - Important interpersonal relationship
+  - Important **interpersonal relationship**
 
-  - Consensus / Communication between two person
+  - Consensus / **Communication** between two person
 
 - Difference
 
-  - Different degree of intimacy
+  - Different **degree of intimacy**
 
-    - Liking = not possess the other
+    - Liking = **not possess the other**
 
-    - Loving = caring, attachment, companionship
+    - Loving = **caring**, **attachment**, **companionship**
 
-  - Difference in nature
+  - Difference in **nature**
 
 ### Love relationship
 
 Goals
 
-- Satisfy emotional needs
+- **Satisfy emotional needs**
 
   - Maslow's Hierarchy of needs
 
-  - Support from partner
+  - **Support** from partner
 
-  - Share deepest feelings
+  - **Share feelings**
 
-- Find a ideal partner -> Further development
+- **Find a ideal partner** -> Further development
 
-- Enrich self-concept
+- **Enrich self-concept**
 
   - Fill the gaps in relationship
 
@@ -54,17 +54,17 @@ Goals
 
 Proper attitude
 
-- Correct understanding
+- **Correct understanding**
 
-  - Spiritual communication, understand each other
+  - Spiritual communication, **understand each other**
 
-  - Stay rational, differentiate friendship and love
+  - Stay **rational**, differentiate friendship and love
 
 - Positive values
 
-  - Respect each other, establish a equal relationship
+  - **Respect each other,** establish a **equal relationship**
 
-  - Support, love and cherish each other
+  - **Support**, **love** and **cherish** each other
 
 Life and communication skills
 
@@ -82,113 +82,115 @@ Factors
 
 - Personal
 
-  - Passion decreases (characteristics of both person change)
+  - **Passion decreases** (characteristics of both person change)
 
-  - Avoid intimate relationships
+  - **Avoid intimate relationships**
 
-  - Difficult for commitment (X direction in life, X stable source of income)
+  - **Difficult for commitment** (X direction in life, X stable source of income)
 
 - Family
 
-  - Not able to cope with changes / consequences -> Show objection
+  - Think that they won't able to cope with changes / consequences -> Show objection
 
 - Social
 
-  - Public do not accept adolescents falling in love too early -> Criticism and obstacles
+  - Public do not accept adolescents **falling in love too early** -> **Criticism** and **obstacles**
 
-  - -> Conflicts between lovers
+  - -> **Conflicts** between lovers
 
-Handle the ending
+#### Handle the ending
+
+Five stages of grief
 
 - Five stages of grief
 
-  - Denial
+  - **Denial**
 
-  - Anger
+  - **Anger**
 
-  - Bargaining
+  - **Bargaining**
 
-  - Depression
+  - **Depression**
 
-  - Acceptance
+  - **Acceptance**
 
 - Attitudes
 
-  - Clearly explain reason
+  - Clearly explain **reason**
 
-  - Consider feeling of other party
+  - Consider **feeling** of other party
 
-  - Recognise other party's efforts
+  - Recognise other party's **efforts**
 
-  - Face situation with a positive attitude
+  - Face situation with a **positive attitude**
 
-  - Reflect 
+  - **Reflect** 
 
-  - Improve themselves
+  - **Improve** themselves
 
 - Skills
 
   - Time
 
-    - Avoid without a warning
+    - Avoid **without a warning**
 
-    - Should not cut off contacts
+    - Should **not cut off contacts**
 
-    - Avoid festival or anniversary
+    - **Avoid festival** or **anniversary**
 
   - Place
 
-    - Safe for both parties
+    - **Safe** for both parties
 
-    - Familar public place, avoid remote places
+    - **Familiar public place**, avoid remote places
 
-    - No access to dangerous goods
+    - No access to **dangerous goods**
 
   - Reasons
 
-    - Relationship no longer sustainable
+    - Relationship **no longer sustainable**
 
-    - Find rational reasons
+    - Find **rational reasons**
 
-    - Causes least harm to both parties
+    - Causes **least harm** to both parties
 
 ### Sex
 
-- Reproduction of sepcies
+- **Reproduction** of species
 
-- Psychology: Personal growth, thoughts and emotions
+- Psychology: **Personal growth**, **thoughts** and **emotions**
 
-- Sociology: Values and systems of society
+- Sociology: **Values** and **systems of society**
 
-- Ethics: Va;ue of respect and equality
+- Ethics: Value of **respect** and **equality**
 
 Love and sex
 
-- One of many way to express love, must be based on love
+- One of many way to **express love**, must be **based on love**
 
-- Refuse pre-marital sex
+- **Refuse pre-marital sex**
 
 Intimacy
 
 - Theory of interpersonal distance: Intimate, personal, social, public
 
-- Set a clear boundary of intimacy, respect each other's acceptance
+- Set a **clear boundary of intimacy**, **respect each other's acceptance**
 
 - Setting limits
 
-  - Respect partner's wishes
+  - **Respect partner's wishes**
 
-  - Protect physical and mental health
+  - **Protect physical and mental health**
 
-    - Contracting STDs
+    - **Contracting STDs**
 
-    - Lack proper knowledge of contraception
+    - Lack **proper knowledge of contraception**
 
-    - Lack financial capability and ability to take up parental responsibilities
+    - Lack **financial capability** and **ability** to **take up parental responsibilities**
 
-  - Meet family expectations
+  - **Meet family expectations**
 
-  - Obey the law
+  - **Obey the law**
 
     - Rape: Life imprisonment
 
@@ -206,29 +208,29 @@ Ways to cope with sexual fantasies and impulses
 
 - Puberty and sex
 
-  - Strong desire for sex -> sexual impulses
+  - **Strong desire for sex** -> sexual impulses
 
-  - Fantasise about sexual experiences
+  - **Fantasise about sexual experiences**
 
 - Coping
 
-  - Avoid pornographic medias -> exaggerated sexual relationships
+  - **Avoid pornographic medias** -> exaggerated sexual relationships
 
-  - Set limits on intimacy together
+  - **Set limits on intimacy** together
 
-  - Establish healthy lifestyles
+  - Establish **healthy lifestyles**
 
 Consequences 
 
 - Deviant behaviours
 
-  - Dating violence
+  - **Dating violence**
 
     - Physical violence
 
     - Psychological violence
 
-  - Emotional blackmail
+  - **Emotional** blackmail
 
     - Punishers: making threats
 
@@ -238,16 +240,16 @@ Consequences
 
     - Tantalisers: Promise to reward, rarely fulfil promises
 
-  - Pre-marital sex
+  - **Pre-marital sex**
 
-  - Reckless and inappropriate intimate relationships
+  - **Reckless and inappropriate intimate relationships**
 
 - Consequences
 
-  - Damaging physical and mental health
+  - **Damaging physical and mental health**
 
-  - Bearing legal responsibility
+  - Bearing **legal responsibility**
 
-  - Unwed pregnancy
+  - **Unwed pregnancy**
 
-  - Contracting sexually-transmitted diseases
+  - Contracting **sexually-transmitted diseases**
